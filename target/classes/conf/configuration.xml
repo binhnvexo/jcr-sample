@@ -4,7 +4,7 @@
   xmlns="http://www.exoplaform.org/xml/ns/kernel_1_0.xsd">
 
   <!-- cs workspace and load nodetypes -->
-  <import>jar:/jcr/jcr-configuration.xml</import> 
-  <import>jar:/jcr/book-nodetypes.xml</import>
+  <import>jar:/conf/portal/jcr-configuration.xml</import> 
+  
   
 </configuration>
