@@ -5,6 +5,6 @@
 
   <!-- cs workspace and load nodetypes -->
   <import>jar:/conf/portal/jcr-configuration.xml</import> 
-  
+  <import>jar:/conf/portal/book-nodetypes.xml</import>
   
 </configuration>
